@@ -12,6 +12,7 @@ This repo is the canonical home for showcase-ready skills that can be used indep
 | [`decision-monitoring`](skills/decision-monitoring/SKILL.md) | Converts decisions into warning signs, trigger points, review cadences, and retrospective learning. |
 | [`learning-loop-designer`](skills/learning-loop-designer/SKILL.md) | Designs microlearning loops with practice, feedback, spaced review, and application. |
 | [`career-signal-router`](skills/career-signal-router/SKILL.md) | Routes career activity into no-regrets actions, option-preserving bets, portfolio assets, and decision gates. |
+| [`treat-the-disease-not-the-symptom`](skills/treat-the-disease-not-the-symptom/SKILL.md) | Helps startup leaders diagnose the deeper operating disease behind visible company symptoms. |
 
 ## Repo Structure
 
@@ -45,4 +46,3 @@ Each skill should include:
 - Output structure
 - Quality bar
 - Common failure modes
-
