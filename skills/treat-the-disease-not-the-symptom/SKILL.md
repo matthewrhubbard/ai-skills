@@ -107,6 +107,13 @@ Use these patterns as diagnostic prompts, not as labels to force onto every situ
 - **Telltale signs:** Many approvers, unclear decider, meetings end without commitments, teams ask for alignment repeatedly.
 - **Treatment:** Name the decider, input group, veto rights, escalation path, and decision deadline.
 
+### Process Band-Aid
+
+- **Symptom:** The company tries to fix communication, alignment, or handoff problems by adding process, such as a RACI, intake form, approval workflow, weekly sync, or status doc.
+- **Disease:** The real issue is unclear ownership, mismatched team boundaries, weak decision rights, or low trust. Process may expose the confusion, but it will not fix the org design.
+- **Telltale signs:** RACI before authority, more meetings without faster decisions, intake forms because ownership is disputed, process compliance becoming the work.
+- **Treatment:** Clarify ownership, decision rights, team boundaries, and accountability first. Then add the lightest process needed to support that structure.
+
 ### Strategy Theater
 
 - **Symptom:** Leaders talk about strategy, alignment, and priorities, but behavior does not change.
@@ -251,4 +258,3 @@ A good diagnostic memo:
 - **Ignoring downstream teams:** many "simple" plans create invisible load elsewhere.
 - **Skipping tests:** a good diagnosis should be falsifiable.
 - **Making the metaphor cute:** keep the medical language useful and restrained.
-
