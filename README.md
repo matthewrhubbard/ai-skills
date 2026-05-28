@@ -14,6 +14,7 @@ This repo is the canonical home for showcase-ready skills that can be used indep
 | [`career-signal-router`](skills/career-signal-router/SKILL.md) | Routes career activity into no-regrets actions, option-preserving bets, portfolio assets, and decision gates. |
 | [`treat-the-disease-not-the-symptom`](skills/treat-the-disease-not-the-symptom/SKILL.md) | Helps startup leaders diagnose the deeper operating disease behind visible company symptoms. |
 | [`pre-mortem`](skills/pre-mortem/SKILL.md) | Helps project teams imagine failure before commitment and turn risks into leader-ready asks. |
+| [`after-action-review`](skills/after-action-review/SKILL.md) | Helps project teams turn launches, initiatives, migrations, and incidents into concrete system learning. |
 
 ## Repo Structure
 
